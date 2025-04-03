@@ -1,0 +1,9 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/vishallmaurya/Sentiment_Analysis
+[submodule "server"]
+	path = server
+	url = https://github.com/vishallmaurya/sentiment_analyzer_backend
+[submodule "ml-model"]
+	path = ml-model
+	url = https://github.com/vishallmaurya/sentimentpredictorservice
