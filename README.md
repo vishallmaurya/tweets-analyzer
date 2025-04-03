@@ -1,4 +1,3 @@
-```markdown
 # Sentiment Analysis Web Application
 
 ## 📌 Overview
@@ -39,13 +38,13 @@ Sentiment Analysis is the process of computationally identifying and categorizin
 - **Database:** Managed using **MongoDB Atlas**, ensuring scalability and security.
 
 ## 📂 Project Structure
-```
+
 📦 Sentiment-Analyzer
  ┣ 📂 client (React Frontend)
  ┣ 📂 server (Express.js Backend)
  ┣ 📂 ml-model (FastAPI + ML)
  ┣ 📜 README.md (Project Documentation)
-```
+
 
 ## 📌 Future Enhancements
 - Expand to multi-lingual sentiment analysis.
@@ -55,6 +54,4 @@ Sentiment Analysis is the process of computationally identifying and categorizin
 ## 🎯 Conclusion
 This project is a powerful blend of **MERN Stack**, **Machine Learning**, and **Cloud Deployment**, ensuring real-time, accurate, and continuously improving sentiment analysis. With **incremental learning and secure API integration**, this tool provides an **authentic, fast, and scalable** sentiment prediction system.
 
----
 🚀 **Let's analyze sentiments and make data-driven decisions!** 🎯
-```
